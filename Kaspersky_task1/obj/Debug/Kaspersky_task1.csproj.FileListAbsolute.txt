@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\bin\Debug\Kaspersky_task1.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\bin\Debug\Kaspersky_task1.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\bin\Debug\Kaspersky_task1.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\obj\Debug\Kaspersky_task1.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\obj\Debug\Kaspersky_task1.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Kaspersky_task1\Kaspersky_task1\obj\Debug\Kaspersky_task1.pdb
